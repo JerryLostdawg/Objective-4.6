@@ -1,1 +1,27 @@
 Given a scenario, implement and maintain identity and access managment
+1. User Accounts
+Creating Accounts: When someone new starts working, give them a user account so they can log in.
+Deleting Accounts: If a person leaves the company, make sure to quickly remove their account so they can’t access anything anymore.
+2. Role-Based Access Control (RBAC)
+Assigning Roles: Give people different roles based on their jobs, like "Admin" or "Employee," which controls what they can see and do.
+Limiting Access: Make sure a person can only access the things they really need for their job.
+3. Password Management
+Strong Passwords: Use passwords that are tough to guess, like a mix of letters, numbers, and symbols.
+Password Help: Use tools called password managers to keep track of all the passwords safely.
+Regular Changes: Change passwords often to keep information secure.
+4. Multifactor Authentication (MFA)
+Extra Security Steps: Besides a password, require another way to verify identity, like a text message code or fingerprint.
+5. Dynamic Access Control
+Using Personal Details: Allow access based on special factors, such as what time it is or what someone’s role at the company is.
+6. Single Sign-On (SSO)
+Convenient Logins: Let users log in once and access multiple systems without needing to remember different passwords.
+7. Protecting Important Accounts
+Extra Security: Make sure accounts with a lot of access (like Admin accounts) have additional protections.
+8. Access Rules
+Defining Who Can Do What: Set clear rules on who can see which information and when they can see it.
+9. Using a Directory
+Keeping Track of Users: Use a system to organize and manage user information easily.
+10. Monitoring Activity
+Keeping an Eye On Things: Regularly check on who accesses what information to catch anything suspicious.
+11. Passwordless Options
+No More Passwords: Consider using modern ways to log in that don’t require passwords, like facial recognition.
