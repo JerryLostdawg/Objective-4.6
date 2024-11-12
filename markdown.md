@@ -1,4 +1,4 @@
-Easy Steps to Manage Identity and Access
+# Easy Steps to Manage Identity and Access
 User Accounts
 
 Creating Accounts: If somebody new is coming to school or begins a new job, assign him or her a new account, which they can then use to log in and run a computer or any program.
