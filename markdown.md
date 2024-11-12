@@ -1,8 +1,10 @@
 # Easy Steps to Manage Identity and Access
 User Accounts
 
-Creating Accounts: If somebody new is coming to school or begins a new job, assign him or her a new account, which they can then use to log in and run a computer or any program.
-Deleting Accounts: It should also allow the account of someone who transferred schools/jobs to be deleted instantly so that he/she won’t be able to get back to it.
+## Creating Accounts
+: If somebody new is coming to school or begins a new job, assign him or her a new account, which they can then use to log in and run a computer or any program.
+## Deleting Accounts
+: It should also allow the account of someone who transferred schools/jobs to be deleted instantly so that he/she won’t be able to get back to it.
 Permission Assignments
 
 </table> Assigning Permissions: Decide what can the different types of users do. For example when a teacher inputs all the grades of the students, then the teacher can view all while a student can only view their_own.
