@@ -5,7 +5,7 @@ Creating Accounts: If somebody new is coming to school or begins a new job, assi
 Deleting Accounts: It should also allow the account of someone who transferred schools/jobs to be deleted instantly so that he/she won’t be able to get back to it.
 Permission Assignments
 
-Assigning Permissions: Decide what can the different types of users do. For example when a teacher inputs all the grades of the students, then the teacher can view all while a student can only view their_own.
+</table> Assigning Permissions: Decide what can the different types of users do. For example when a teacher inputs all the grades of the students, then the teacher can view all while a student can only view their_own.
 Identity Proofing
 
 Verifying Identity: Once the account is being created ensure that the person is genuine as he or she claims to be. This could include identification such as providing an ID number or password, answering of security questions, and others.
